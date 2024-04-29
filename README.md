@@ -17,7 +17,7 @@
   <img align="center" alt="ricardo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="ricardo-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
   <img align="center" alt="ricardo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="ricardo-Tail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/ ## <div align="center">Oi, meu nome é Ricardo Maciel.<div/> 
+  <img align="center" alt="ricardo-Tail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">Oi, meu nome é Ricardo Maciel.<div/> 
  <br>
    
 <div align="center">
