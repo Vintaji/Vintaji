@@ -2,9 +2,9 @@
  <br>
    
 <div align="center">
-  <a href="https://github.com/Vintaji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vintaji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vintaji&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ventiware">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ventiware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventiware&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
  
@@ -21,9 +21,9 @@
  <br>
    
 <div align="center">
-  <a href="https://github.com/Vintaji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vintaji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vintaji&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ventiware">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ventiware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventiware&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
  
@@ -47,7 +47,7 @@
  
  ##
  
-![Snake animation](https://github.com/vintaji/vintaji/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ventiware/ventiware/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 ">
@@ -61,6 +61,6 @@
  
  ##
  
-![Snake animation](https://github.com/vintaji/vintaji/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ventiware/ventiware/blob/output/github-contribution-grid-snake.svg)
  
 </div>
